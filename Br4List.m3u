@@ -698,11 +698,11 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65269
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73450
 #EXTINF:-1 tvg-id="Globo TV Diário Mogi das Cruzes HD" tvg-name="Globo TV Diário Mogi das Cruzes HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="GLOBOS",GLOBO TV DIÁRIO MOGI DAS CRUZES HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73449
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="g" group-title="GLOBOS",GLOBO TV GAZETA ALAGOAS HD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="GLOBOS",GLOBO TV GAZETA ALAGOAS HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42996
-#EXTINF:-1 tvg-id="Globo TV Gazeta Sul ES" tvg-name="Globo TV Gazeta Sul ES" tvg-logo="" group-title="GLOBOS",GLOBO TV GAZETA SUL ES
+#EXTINF:-1 tvg-id="Globo TV Gazeta Sul ES" tvg-name="Globo TV Gazeta Sul ES" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="GLOBOS",GLOBO TV GAZETA SUL ES
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63686
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="" group-title="GLOBOS",GLOBO TV GAZETA SUL ES HD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="GLOBOS",GLOBO TV GAZETA SUL ES HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42998
 #EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Vitória" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="GLOBOS",GLOBO TV GAZETA VITÓRIA
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42978
@@ -1791,105 +1791,105 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41481
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41482
 #EXTINF:-1 tvg-id="Gazeta FHD" tvg-name="Gazeta FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tv%20gazeta.png" group-title="FULL HD",GAZETA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61960
-#EXTINF:-1 tvg-id="Globo Belem FHD" tvg-name="Globo Belem FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO BELEM FHD
+#EXTINF:-1 tvg-id="Globo Belem FHD" tvg-name="Globo Belem FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO BELEM FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72892
-#EXTINF:-1 tvg-id="Globo Belo Horizonte FHD" tvg-name="Globo Belo Horizonte FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO BELO HORIZONTE FHD
+#EXTINF:-1 tvg-id="Globo Belo Horizonte FHD" tvg-name="Globo Belo Horizonte FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO BELO HORIZONTE FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72814
-#EXTINF:-1 tvg-id="Globo Brasília FHD" tvg-name="Globo Brasília FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO BRASÍLIA FHD
+#EXTINF:-1 tvg-id="Globo Brasília FHD" tvg-name="Globo Brasília FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO BRASÍLIA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/64592
-#EXTINF:-1 tvg-id="GLOBO EPTV SAO CARLOS FHD" tvg-name="GLOBO EPTV SAO CARLOS FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO EPTV SAO CARLOS FHD
+#EXTINF:-1 tvg-id="GLOBO EPTV SAO CARLOS FHD" tvg-name="GLOBO EPTV SAO CARLOS FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO EPTV SAO CARLOS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75473
-#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas FHD" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO EPTV SUL DE MINAS FHD
+#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas FHD" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO EPTV SUL DE MINAS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73061
-#EXTINF:-1 tvg-id="Globo Goiânia FHD" tvg-name="Globo Goiânia FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO GOIÂNIA FHD
+#EXTINF:-1 tvg-id="Globo Goiânia FHD" tvg-name="Globo Goiânia FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO GOIÂNIA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72816
-#EXTINF:-1 tvg-id="0" tvg-name="Globo Goias FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO GOIAS FHD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo Goias FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO GOIAS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61973
-#EXTINF:-1 tvg-id="Globo Inter TV Natal FHD" tvg-name="Globo Inter TV Natal FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO INTER TV NATAL FHD
+#EXTINF:-1 tvg-id="Globo Inter TV Natal FHD" tvg-name="Globo Inter TV Natal FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO INTER TV NATAL FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72813
-#EXTINF:-1 tvg-id="Globo Juazeiro Bahia FHD" tvg-name="Globo Juazeiro Bahia FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO JUAZEIRO BAHIA FHD
+#EXTINF:-1 tvg-id="Globo Juazeiro Bahia FHD" tvg-name="Globo Juazeiro Bahia FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO JUAZEIRO BAHIA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80365
-#EXTINF:-1 tvg-id="Globo Mato Grosso FHD" tvg-name="Globo Mato Grosso FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO MATO GROSSO FHD
+#EXTINF:-1 tvg-id="Globo Mato Grosso FHD" tvg-name="Globo Mato Grosso FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO MATO GROSSO FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63728
-#EXTINF:-1 tvg-id="Globo Minas FHD" tvg-name="Globo Minas FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO MINAS FHD
+#EXTINF:-1 tvg-id="Globo Minas FHD" tvg-name="Globo Minas FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO MINAS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41515
-#EXTINF:-1 tvg-id="Globo Nordeste FHD" tvg-name="Globo Nordeste FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO NORDESTE FHD
+#EXTINF:-1 tvg-id="Globo Nordeste FHD" tvg-name="Globo Nordeste FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO NORDESTE FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42984
-#EXTINF:-1 tvg-id="Globo Rio FHD" tvg-name="Globo Rio FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO RIO FHD
+#EXTINF:-1 tvg-id="Globo Rio FHD" tvg-name="Globo Rio FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO RIO FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38425
-#EXTINF:-1 tvg-id="Globo Salvador FHD" tvg-name="Globo Salvador FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO SALVADOR FHD
+#EXTINF:-1 tvg-id="Globo Salvador FHD" tvg-name="Globo Salvador FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO SALVADOR FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/72890
-#EXTINF:-1 tvg-id="GLOBO SJ RIO PRETO FHD" tvg-name="GLOBO SJ RIO PRETO FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO SJ RIO PRETO FHD
+#EXTINF:-1 tvg-id="GLOBO SJ RIO PRETO FHD" tvg-name="GLOBO SJ RIO PRETO FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO SJ RIO PRETO FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75161
-#EXTINF:-1 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO SP FHD
+#EXTINF:-1 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO SP FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38424
-#EXTINF:-1 tvg-id="Globo TV Anhanguera Anápolis FHD" tvg-name="Globo TV Anhanguera Anápolis FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV ANHANGUERA ANÁPOLIS FHD
+#EXTINF:-1 tvg-id="Globo TV Anhanguera Anápolis FHD" tvg-name="Globo TV Anhanguera Anápolis FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV ANHANGUERA ANÁPOLIS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82745
-#EXTINF:-1 tvg-id="Globo TV Anhanguera Catalão FHD" tvg-name="Globo TV Anhanguera Catalão FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV ANHANGUERA CATALÃO FHD
+#EXTINF:-1 tvg-id="Globo TV Anhanguera Catalão FHD" tvg-name="Globo TV Anhanguera Catalão FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV ANHANGUERA CATALÃO FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82743
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Anhanguera FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV ANHANGUERA FHD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Anhanguera FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV ANHANGUERA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42986
-#EXTINF:-1 tvg-id="Globo TV Anhanguera Itumbiara FHD" tvg-name="Globo TV Anhanguera Itumbiara FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV ANHANGUERA ITUMBIARA FHD
+#EXTINF:-1 tvg-id="Globo TV Anhanguera Itumbiara FHD" tvg-name="Globo TV Anhanguera Itumbiara FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV ANHANGUERA ITUMBIARA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82741
-#EXTINF:-1 tvg-id="Globo TV Asa Branca FHD" tvg-name="Globo TV Asa Branca FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV ASA BRANCA FHD
+#EXTINF:-1 tvg-id="Globo TV Asa Branca FHD" tvg-name="Globo TV Asa Branca FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV ASA BRANCA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73096
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV CABO BRANCO FHD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV CABO BRANCO FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52544
-#EXTINF:-1 tvg-id="GLOBO TV CENTRO AMERICA CUIABA FHD" tvg-name="GLOBO TV CENTRO AMERICA CUIABA FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV CENTRO AMERICA CUIABA FHD
+#EXTINF:-1 tvg-id="GLOBO TV CENTRO AMERICA CUIABA FHD" tvg-name="GLOBO TV CENTRO AMERICA CUIABA FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV CENTRO AMERICA CUIABA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75488
-#EXTINF:-1 tvg-id="Globo TV Clube Piaui FHD" tvg-name="Globo TV Clube Piaui FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV CLUBE PIAUI FHD
+#EXTINF:-1 tvg-id="Globo TV Clube Piaui FHD" tvg-name="Globo TV Clube Piaui FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV CLUBE PIAUI FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73037
-#EXTINF:-1 tvg-id="Globo TV Diário Mogi das Cruzes FHD" tvg-name="Globo TV Diário Mogi das Cruzes FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV DIÁRIO MOGI DAS CRUZES FHD
+#EXTINF:-1 tvg-id="Globo TV Diário Mogi das Cruzes FHD" tvg-name="Globo TV Diário Mogi das Cruzes FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV DIÁRIO MOGI DAS CRUZES FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73448
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV GAZETA ALAGOAS FHD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV GAZETA ALAGOAS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42995
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Sul ES FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV GAZETA SUL ES FHD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Sul ES FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV GAZETA SUL ES FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42997
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Vitória FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV GAZETA VITÓRIA FHD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Gazeta Vitória FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV GAZETA VITÓRIA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42979
-#EXTINF:-1 tvg-id="Globo TV Grande Rio FHD" tvg-name="Globo TV Grande Rio FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV GRANDE RIO FHD
+#EXTINF:-1 tvg-id="Globo TV Grande Rio FHD" tvg-name="Globo TV Grande Rio FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV GRANDE RIO FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63397
-#EXTINF:-1 tvg-id="Globo TV Integração Araxa FHD" tvg-name="Globo TV Integração Araxa FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV INTEGRAÇÃO ARAXA FHD
+#EXTINF:-1 tvg-id="Globo TV Integração Araxa FHD" tvg-name="Globo TV Integração Araxa FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV INTEGRAÇÃO ARAXA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73064
-#EXTINF:-1 tvg-id="Globo TV Integração Divinópolis FHD" tvg-name="Globo TV Integração Divinópolis FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV INTEGRAÇÃO DIVINÓPOLIS FHD
+#EXTINF:-1 tvg-id="Globo TV Integração Divinópolis FHD" tvg-name="Globo TV Integração Divinópolis FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV INTEGRAÇÃO DIVINÓPOLIS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/82747
-#EXTINF:-1 tvg-id="Globo TV Integração Juiz de Fora FHD" tvg-name="Globo TV Integração Juiz de Fora FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV INTEGRAÇÃO JUIZ DE FORA FHD
+#EXTINF:-1 tvg-id="Globo TV Integração Juiz de Fora FHD" tvg-name="Globo TV Integração Juiz de Fora FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV INTEGRAÇÃO JUIZ DE FORA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73067
-#EXTINF:-1 tvg-id="Globo TV Integração Uberaba FHD" tvg-name="Globo TV Integração Uberaba FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV INTEGRAÇÃO UBERABA FHD
+#EXTINF:-1 tvg-id="Globo TV Integração Uberaba FHD" tvg-name="Globo TV Integração Uberaba FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV INTEGRAÇÃO UBERABA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74962
-#EXTINF:-1 tvg-id="Globo TV Integração Uberlandia FHD" tvg-name="Globo TV Integração Uberlandia FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV INTEGRAÇÃO UBERLANDIA FHD
+#EXTINF:-1 tvg-id="Globo TV Integração Uberlandia FHD" tvg-name="Globo TV Integração Uberlandia FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV INTEGRAÇÃO UBERLANDIA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73232
-#EXTINF:-1 tvg-id="Globo TV Liberal Belem FHD" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV LIBERAL BELEM FHD
+#EXTINF:-1 tvg-id="Globo TV Liberal Belem FHD" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV LIBERAL BELEM FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63640
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Mirante São Luis FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV MIRANTE SÃO LUIS FHD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Mirante São Luis FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV MIRANTE SÃO LUIS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42988
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Morena Campo Grande FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV MORENA CAMPO GRANDE FHD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Morena Campo Grande FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV MORENA CAMPO GRANDE FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42991
-#EXTINF:-1 tvg-id="GLOBO TV REDE AMAZONICA MACAPA FHD" tvg-name="GLOBO TV REDE AMAZONICA MACAPA FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV REDE AMAZONICA MACAPA FHD
+#EXTINF:-1 tvg-id="GLOBO TV REDE AMAZONICA MACAPA FHD" tvg-name="GLOBO TV REDE AMAZONICA MACAPA FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV REDE AMAZONICA MACAPA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75481
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV RIO SUL FHD
+#EXTINF:-1 tvg-id="0" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV RIO SUL FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52547
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV SANTA CRUZ FHD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV SANTA CRUZ FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52563
-#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Sergipe FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV SERGIPE FHD
+#EXTINF:-1 tvg-id="0" tvg-name="Globo TV Sergipe FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV SERGIPE FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42981
-#EXTINF:-1 tvg-id="Globo TV Subae Globo Bahia FHD" tvg-name="Globo TV Subae Globo Bahia FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV SUBAE GLOBO BAHIA FHD
+#EXTINF:-1 tvg-id="Globo TV Subae Globo Bahia FHD" tvg-name="Globo TV Subae Globo Bahia FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV SUBAE GLOBO BAHIA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74960
-#EXTINF:-1 tvg-id="GLOBO TV TEM SOROCABA FHD" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV TEM SOROCABA FHD
+#EXTINF:-1 tvg-id="GLOBO TV TEM SOROCABA FHD" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV TEM SOROCABA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75475
-#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA FHD" tvg-name="GLOBO TV TRIBUNA FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV TRIBUNA FHD
+#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA FHD" tvg-name="GLOBO TV TRIBUNA FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV TRIBUNA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75162
-#EXTINF:-1 tvg-id="Globo TV Tribuna Santos FHD" tvg-name="Globo TV Tribuna Santos FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV TRIBUNA SANTOS FHD
+#EXTINF:-1 tvg-id="Globo TV Tribuna Santos FHD" tvg-name="Globo TV Tribuna Santos FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV TRIBUNA SANTOS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75164
-#EXTINF:-1 tvg-id="Globo TV Vanguarda S. J. dos Campos FHD" tvg-name="Globo TV Vanguarda S. J. dos Campos FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD
+#EXTINF:-1 tvg-id="Globo TV Vanguarda S. J. dos Campos FHD" tvg-name="Globo TV Vanguarda S. J. dos Campos FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74667
-#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate FHD" tvg-name="Globo TV Vanguarda Taubate FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV VANGUARDA TAUBATE FHD
+#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate FHD" tvg-name="Globo TV Vanguarda Taubate FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV VANGUARDA TAUBATE FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73223
-#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza FHD" tvg-name="Globo TV Verdes Mares Fortaleza FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO TV VERDES MARES FORTALEZA FHD
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza FHD" tvg-name="Globo TV Verdes Mares Fortaleza FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO TV VERDES MARES FORTALEZA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63641
-#EXTINF:-1 tvg-id="GLOBO VANGUARDA SOROCABA FHD  " tvg-name="GLOBO VANGUARDA SOROCABA FHD  " tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBO VANGUARDA SOROCABA FHD  
+#EXTINF:-1 tvg-id="GLOBO VANGUARDA SOROCABA FHD  " tvg-name="GLOBO VANGUARDA SOROCABA FHD  " tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD",GLOBO VANGUARDA SOROCABA FHD  
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75163
-#EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="GloboNews FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOBONEWS FHD
+#EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="GloboNews FHD" tvg-logo="" group-title="FULL HD",GLOBONEWS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38397
 #EXTINF:-1 tvg-id="Gloob  FHD" tvg-name="Gloob FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",GLOOB FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38396
@@ -2215,7 +2215,7 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38384
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63777
 #EXTINF:-1 tvg-id="Zoomoo FHD" tvg-name="Zoomoo FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD", ZOOMOO FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63778
-#EXTINF:-1 tvg-id="Globo TV TEM Itapetininga FHD" tvg-name="Globo TV TEM Itapetininga FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD", Globo TV TEM Itapetininga FHD
+#EXTINF:-1 tvg-id="Globo TV TEM Itapetininga FHD" tvg-name="Globo TV TEM Itapetininga FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="FULL HD", Globo TV TEM Itapetininga FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73229
 
 
@@ -2237,7 +2237,7 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74791
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74794
 #EXTINF:-1 tvg-id="ESPN Brasil [4K]" tvg-name="ESPN [4K]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS 4K",ESPN [4K]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74798
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Globo [4K]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS 4K",GLOBO [4K]
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Globo [4K]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS 4K",GLOBO [4K]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/43430
 #EXTINF:-1 tvg-id="GloboNews [4K]" tvg-name="GloboNews [4K]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS 4K",GLOBONEWS [4K]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74789
@@ -2369,75 +2369,75 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62834
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62836
 #EXTINF:-1 tvg-id="0" tvg-name="FX-H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",FX-H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51242
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO CAMPINAS H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO CAMPINAS H265
+#EXTINF:-1 tvg-id="0" tvg-name="GLOBO CAMPINAS H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBO CAMPINAS H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62821
-#EXTINF:-1 tvg-id="Globo Centro América FHD - H265" tvg-name="Globo Centro América FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO CENTRO AMÉRICA FHD - H265
+#EXTINF:-1 tvg-id="Globo Centro América FHD - H265" tvg-name="Globo Centro América FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBO CENTRO AMÉRICA FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68056
-#EXTINF:-1 tvg-id="Globo EPTV Campinas FHD - H265" tvg-name="Globo EPTV Campinas FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO EPTV CAMPINAS FHD - H265
+#EXTINF:-1 tvg-id="Globo EPTV Campinas FHD - H265" tvg-name="Globo EPTV Campinas FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOEPTV CAMPINAS FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68057
-#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas FHD - H265" tvg-name="Globo EPTV Sul de Minas FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO EPTV SUL DE MINAS FHD - H265
+#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas FHD - H265" tvg-name="Globo EPTV Sul de Minas FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOEPTV SUL DE MINAS FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68078
-#EXTINF:-1 tvg-id="Globo Inter TV dos Vales FHD - H265" tvg-name="Globo Inter TV dos Vales FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO INTER TV DOS VALES FHD - H265
+#EXTINF:-1 tvg-id="Globo Inter TV dos Vales FHD - H265" tvg-name="Globo Inter TV dos Vales FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOINTER TV DOS VALES FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68072
-#EXTINF:-1 tvg-id="Globo Inter TV Grande Minas  FHD - H265" tvg-name="Globo Inter TV Grande Minas  FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO INTER TV GRANDE MINAS  FHD - H265
+#EXTINF:-1 tvg-id="Globo Inter TV Grande Minas  FHD - H265" tvg-name="Globo Inter TV Grande Minas  FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOINTER TV GRANDE MINAS  FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68077
-#EXTINF:-1 tvg-id="Globo Minas FHD - H265" tvg-name="Globo Minas FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO MINAS FHD - H265
+#EXTINF:-1 tvg-id="Globo Minas FHD - H265" tvg-name="Globo Minas FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOMINAS FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68058
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO MINAS H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO MINAS H265
+#EXTINF:-1 tvg-id="0" tvg-name="GLOBO MINAS H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOMINAS H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62820
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO NEWS FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO NEWS FHD - H265
+#EXTINF:-1 tvg-id="0" tvg-name="GLOBO NEWS FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBONEWS FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51243
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO NEWS H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO NEWS H265
+#EXTINF:-1 tvg-id="0" tvg-name="GLOBO NEWS H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBONEWS H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62840
-#EXTINF:-1 tvg-id="Globo Nordeste 2 FHD - H265" tvg-name="Globo Nordeste 2 FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO NORDESTE 2 FHD - H265
+#EXTINF:-1 tvg-id="Globo Nordeste 2 FHD - H265" tvg-name="Globo Nordeste 2 FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBONORDESTE 2 FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68047
-#EXTINF:-1 tvg-id="Globo Nordeste FHD - H265" tvg-name="Globo Nordeste FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO NORDESTE FHD - H265
+#EXTINF:-1 tvg-id="Globo Nordeste FHD - H265" tvg-name="Globo Nordeste FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBONORDESTE FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68059
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO NORDESTE H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO NORDESTE H265
+#EXTINF:-1 tvg-id="0" tvg-name="GLOBO NORDESTE H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBONORDESTE H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62819
-#EXTINF:-1 tvg-id="Globo NSC Florianopolis FHD - H265" tvg-name="Globo NSC Florianópolis FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO NSC FLORIANÓPOLIS FHD - H265
+#EXTINF:-1 tvg-id="Globo NSC Florianopolis FHD - H265" tvg-name="Globo NSC Florianópolis FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBONSC FLORIANÓPOLIS FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68060
-#EXTINF:-1 tvg-id="Globo NSC TV Blumenau FHD - H265" tvg-name="Globo NSC TV Blumenau FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO NSC TV BLUMENAU FHD - H265
+#EXTINF:-1 tvg-id="Globo NSC TV Blumenau FHD - H265" tvg-name="Globo NSC TV Blumenau FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBONSC TV BLUMENAU FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68079
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO PORTO ALEGRE H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO PORTO ALEGRE H265
+#EXTINF:-1 tvg-id="0" tvg-name="GLOBO PORTO ALEGRE H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOPORTO ALEGRE H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62816
-#EXTINF:-1 tvg-id="Globo RBS TV POA - H265" tvg-name="Globo RBS TV POA - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO RBS TV POA - H265
+#EXTINF:-1 tvg-id="Globo RBS TV POA - H265" tvg-name="Globo RBS TV POA - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBORBS TV POA - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68048
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO RIBEIRAO PRETO H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO RIBEIRAO PRETO H265
+#EXTINF:-1 tvg-id="0" tvg-name="GLOBO RIBEIRAO PRETO H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBORIBEIRAO PRETO H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62815
-#EXTINF:-1 tvg-id="Globo Rio 2 FHD - H265" tvg-name="Globo Rio 2 FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO RIO 2 FHD - H265
+#EXTINF:-1 tvg-id="Globo Rio 2 FHD - H265" tvg-name="Globo Rio 2 FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBORIO 2 FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68049
-#EXTINF:-1 tvg-id="Globo Rio FHD - H265" tvg-name="Globo Rio FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO RIO FHD - H265
+#EXTINF:-1 tvg-id="Globo Rio FHD - H265" tvg-name="Globo Rio FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBORIO FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68070
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO Rio H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO RIO H265
+#EXTINF:-1 tvg-id="0" tvg-name="GLOBO Rio H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBORIO H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62857
-#EXTINF:-1 tvg-id="Globo SP FHD - H265" tvg-name="Globo SP FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO SP FHD - H265
+#EXTINF:-1 tvg-id="Globo SP FHD - H265" tvg-name="Globo SP FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOSP FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68050
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="GLOBO SP H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO SP H265
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="GLOBO SP H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOSP H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62855
-#EXTINF:-1 tvg-id="Globo TV Anhanguera FHD - H265" tvg-name="Globo TV Anhanguera FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV ANHANGUERA FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Anhanguera FHD - H265" tvg-name="Globo TV Anhanguera FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV ANHANGUERA FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68062
-#EXTINF:-1 tvg-id="Globo TV Bahia FHD - H265" tvg-name="Globo TV Bahia FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV BAHIA FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Bahia FHD - H265" tvg-name="Globo TV Bahia FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV BAHIA FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68063
-#EXTINF:-1 tvg-id="Globo TV Belem FHD - H265" tvg-name="Globo TV Belem FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV BELEM FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Belem FHD - H265" tvg-name="Globo TV Belem FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV BELEM FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68069
-#EXTINF:-1 tvg-id="Globo TV Brasilia FHD - H265" tvg-name="Globo TV Brasilia FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV BRASILIA FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Brasilia FHD - H265" tvg-name="Globo TV Brasilia FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV BRASILIA FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68076
-#EXTINF:-1 tvg-id="Globo TV Gazeta Alagoas FHD - H265" tvg-name="Globo TV Gazeta Alagoas FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV GAZETA ALAGOAS FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Gazeta Alagoas FHD - H265" tvg-name="Globo TV Gazeta Alagoas FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV GAZETA ALAGOAS FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68073
-#EXTINF:-1 tvg-id="Globo TV Gazeta FHD - H265" tvg-name="Globo TV Gazeta FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV GAZETA FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Gazeta FHD - H265" tvg-name="Globo TV Gazeta FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV GAZETA FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68075
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL FHD - H265" tvg-name="GLOBO TV LIBERAL FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV LIBERAL FHD - H265
+#EXTINF:-1 tvg-id="GLOBO TV LIBERAL FHD - H265" tvg-name="GLOBO TV LIBERAL FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV LIBERAL FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68064
-#EXTINF:-1 tvg-id="Globo TV Mirante FHD - H265" tvg-name="Globo TV Mirante FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV MIRANTE FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Mirante FHD - H265" tvg-name="Globo TV Mirante FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV MIRANTE FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68065
-#EXTINF:-1 tvg-id="Globo TV Morena FHD - H265" tvg-name="Globo TV Morena FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV MORENA FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Morena FHD - H265" tvg-name="Globo TV Morena FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV MORENA FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68066
-#EXTINF:-1 tvg-id="Globo TV Santa Cruz FHD - H265" tvg-name="Globo TV Santa Cruz FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV SANTA CRUZ FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Santa Cruz FHD - H265" tvg-name="Globo TV Santa Cruz FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV SANTA CRUZ FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68074
-#EXTINF:-1 tvg-id="Globo TV Sergipe FHD - H265" tvg-name="Globo TV Sergipe FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV SERGIPE FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Sergipe FHD - H265" tvg-name="Globo TV Sergipe FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV SERGIPE FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68071
-#EXTINF:-1 tvg-id="Globo TV Verdes Mares FHD - H265" tvg-name="Globo TV Verdes Mares FHD - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOBO TV VERDES MARES FHD - H265
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares FHD - H265" tvg-name="Globo TV Verdes Mares FHD - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/GLOBO.png" group-title="CANAIS H.265",GLOBOTV VERDES MARES FHD - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68067
 #EXTINF:-1 tvg-id="0" tvg-name="Gloob - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",GLOOB - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51244
