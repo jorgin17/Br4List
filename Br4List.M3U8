@@ -1,22 +1,18 @@
-
-
 #EXTM3U
- 
- 
- 
+
  ###########################################################CANAIS ABERTOS###########################################################
  
  
  
 #EXTINF:-1 tvg-id="Agro Canal HD" tvg-name="Agro Canal HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS ABERTOS",AGRO CANAL HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/71074
-#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS ABERTOS",BAND
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="CANAIS ABERTOS",BAND
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37127
-#EXTINF:-1 tvg-id="Band Bahia" tvg-name="Band Bahia" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS ABERTOS",BAND BAHIA
+#EXTINF:-1 tvg-id="Band Bahia" tvg-name="Band Bahia" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="CANAIS ABERTOS",BAND BAHIA
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65266
-#EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS ABERTOS",BAND SP
+#EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="CANAIS ABERTOS",BAND SP
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68522
-#EXTINF:-1 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS ABERTOS",BAND SP HD
+#EXTINF:-1 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="CANAIS ABERTOS",BAND SP HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41530
 #EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS ABERTOS",CANAL BRASIL
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37122
@@ -236,11 +232,11 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86529
 
 
 
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="https://bit.ly/Logo-tv" group-title="ESPORTES",BANDSPORTS
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/BandSportspng.png" group-title="ESPORTES",BANDSPORTS
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37125
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="https://bit.ly/Logo-tv" group-title="ESPORTES",BANDSPORTS
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/BandSportspng.png" group-title="ESPORTES",BANDSPORTS
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50613
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="https://bit.ly/Logo-tv" group-title="ESPORTES",BANDSPORTS HD
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/BandSportspng.png" group-title="ESPORTES",BANDSPORTS HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36989
 #EXTINF:-1 tvg-id="Brasileirão Série C (S)" tvg-name="Brasileirão Série C (JOGO 1) (S) " tvg-logo="https://bit.ly/Logo-tv" group-title="ESPORTES",BRASILEIRÃO SÉRIE C (JOGO 1) (S) 
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/87227
@@ -983,9 +979,9 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63779
 
 
 
-#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="https://bit.ly/Logo-tv" group-title="NOTICIAS ",BANDNEWS
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/bandnews.png" group-title="NOTICIAS ",BANDNEWS
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37126
-#EXTINF:-1 tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | NOTICIAS",BANDNEWS HD
+#EXTINF:-1 tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/bandnews.png" group-title="CANAIS | NOTICIAS",BANDNEWS HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42411
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS | NOTICIAS",CNN BRASIL
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65040
@@ -1437,13 +1433,13 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50646
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50649
 #EXTINF:-1 tvg-id="0" tvg-name="BABY TV HD [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="ALTERNATIVOS ",BABY TV HD [ALT]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50648
-#EXTINF:-1 tvg-id="0" tvg-name="BAND CAMPINAS HD [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="ALTERNATIVOS ",BAND CAMPINAS HD [ALT]
+#EXTINF:-1 tvg-id="0" tvg-name="BAND CAMPINAS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="ALTERNATIVOS ",BAND CAMPINAS HD [ALT]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50650
-#EXTINF:-1 tvg-id="0" tvg-name="BAND SPORTS [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="ALTERNATIVOS ",BAND SPORTS [ALT]
+#EXTINF:-1 tvg-id="0" tvg-name="BAND SPORTS [ALT]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/BandSportspng.png" group-title="ALTERNATIVOS ",BAND SPORTS [ALT]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50657
-#EXTINF:-1 tvg-id="0" tvg-name="BandNews [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="ALTERNATIVOS ",BANDNEWS [ALT]
+#EXTINF:-1 tvg-id="0" tvg-name="BandNews [ALT]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/bandnews.png" group-title="ALTERNATIVOS ",BANDNEWS [ALT]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50655
-#EXTINF:-1 tvg-id="0" tvg-name="BandNews HD [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="ALTERNATIVOS ",BANDNEWS HD [ALT]
+#EXTINF:-1 tvg-id="0" tvg-name="BandNews HD [ALT]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/bandnews.png" group-title="ALTERNATIVOS ",BANDNEWS HD [ALT]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50654
 #EXTINF:-1 tvg-id="0" tvg-name="BIS FHD [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="ALTERNATIVOS ",BIS FHD [ALT]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50660
@@ -1685,19 +1681,19 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41468
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81803
 #EXTINF:-1 tvg-id="BabyTV FHD" tvg-name="BabyTV FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",BABYTV FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63635
-#EXTINF:-1 tvg-id="BAND CAMPINAS FHD" tvg-name="BAND CAMPINAS FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",BAND CAMPINAS FHD
+#EXTINF:-1 tvg-id="BAND CAMPINAS FHD" tvg-name="BAND CAMPINAS FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="FULL HD",BAND CAMPINAS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/77850
-#EXTINF:-1 tvg-id="Band FHD" tvg-name="Band FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",BAND FHD
+#EXTINF:-1 tvg-id="Band FHD" tvg-name="Band FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="FULL HD",BAND FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38429
-#EXTINF:-1 tvg-id="Band Manaira FHD" tvg-name="Band Manaira FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",BAND MANAIRA FHD
+#EXTINF:-1 tvg-id="Band Manaira FHD" tvg-name="Band Manaira FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="FULL HD",BAND MANAIRA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80917
-#EXTINF:-1 tvg-id="Band Recife FHD" tvg-name="Band Recife FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",BAND RECIFE FHD
+#EXTINF:-1 tvg-id="Band Recife FHD" tvg-name="Band Recife FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="FULL HD",BAND RECIFE FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63384
-#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="Band SP FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",BAND SP FHD
+#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="Band SP FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="FULL HD",BAND SP FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41514
-#EXTINF:-1 tvg-id="BandNews FHD" tvg-name="BandNews FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",BANDNEWS FHD
+#EXTINF:-1 tvg-id="BandNews FHD" tvg-name="BandNews FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/bandnews.png" group-title="FULL HD",BANDNEWS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38391
-#EXTINF:-1 tvg-id="BandSports FHD" tvg-name="BandSports FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",BANDSPORTS FHD
+#EXTINF:-1 tvg-id="BandSports FHD" tvg-name="BandSports FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/BandSportspng.png" group-title="FULL HD",BANDSPORTS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42900
 #EXTINF:-1 tvg-id="BIS FHD" tvg-name="BIS FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",BIS FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38403
@@ -2289,11 +2285,11 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62888
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62794
 #EXTINF:-1 tvg-id="0" tvg-name="AXN H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",AXN H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62796
-#EXTINF:-1 tvg-id="0" tvg-name="BAND H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",BAND H265
+#EXTINF:-1 tvg-id="0" tvg-name="BAND H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/band.png" group-title="CANAIS H.265",BAND H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62887
-#EXTINF:-1 tvg-id="0" tvg-name="BAND SPORTS H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",BAND SPORTS H265
+#EXTINF:-1 tvg-id="0" tvg-name="BAND SPORTS H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/BandSportspng.png" group-title="CANAIS H.265",BAND SPORTS H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62798
-#EXTINF:-1 tvg-id="0" tvg-name="BandNews H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",BANDNEWS H265
+#EXTINF:-1 tvg-id="0" tvg-name="BandNews H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/bandnews.png" group-title="CANAIS H.265",BANDNEWS H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62797
 #EXTINF:-1 tvg-id="0" tvg-name="BIS H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",BIS H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62799
