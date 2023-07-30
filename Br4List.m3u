@@ -1,6 +1,6 @@
 #EXTM3U
 
- ###########################################################CANAIS ABERTOS###########################################################
+ ########################################################### CANAIS ABERTOS ###########################################################
  
  
  
@@ -555,51 +555,51 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36903
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37037
 #EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TCM HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63644
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE ACTION
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TC%20Action.png" group-title="FILMES E SÉRIES",TELECINE ACTION
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37040
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TC%20Action.png" group-title="FILMES E SÉRIES",TELECINE ACTION HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36939
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE CULT
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20cult.png" group-title="FILMES E SÉRIES",TELECINE CULT
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37039
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE CULT HD
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20cult.png" group-title="FILMES E SÉRIES",TELECINE CULT HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36901
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE FUN
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20Fun.png" group-title="FILMES E SÉRIES",TELECINE FUN
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37005
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE FUN HD
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20Fun.png" group-title="FILMES E SÉRIES",TELECINE FUN HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36938
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20pipoca.png" group-title="FILMES E SÉRIES",TELECINE PIPOCA
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37038
-#EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20pipoca.png" group-title="FILMES E SÉRIES",TELECINE PIPOCA HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36937
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20premium.png" group-title="FILMES E SÉRIES",TELECINE PREMIUM
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36994
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20premium.png" group-title="FILMES E SÉRIES",TELECINE PREMIUM HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36936
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE TOUCH
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20touch.png" group-title="FILMES E SÉRIES",TELECINE TOUCH
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36995
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20touch.png" group-title="FILMES E SÉRIES",TELECINE TOUCH HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36935
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TNT.png" group-title="FILMES E SÉRIES",TNT
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37035
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TNT HD
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TNT.png" group-title="FILMES E SÉRIES",TNT HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36934
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TNT SÉRIES
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tnt%20s%C3%A9ries.png" group-title="FILMES E SÉRIES",TNT SÉRIES
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37034
-#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT Séries HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TNT SÉRIES HD
+#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT Séries HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tnt%20s%C3%A9ries.png" group-title="FILMES E SÉRIES",TNT SÉRIES HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36933
 #EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",TRUTV HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63649
-#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",UNIVERSAL TV
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/universal%20tv.png" group-title="FILMES E SÉRIES",UNIVERSAL TV
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37027
-#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="Universal TV HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",UNIVERSAL TV HD
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="Universal TV HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/universal%20tv.png" group-title="FILMES E SÉRIES",UNIVERSAL TV HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36932
 #EXTINF:-1 tvg-id="Urban Movies HD" tvg-name="Urban Movies HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",URBAN MOVIES HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86531
 #EXTINF:-1 tvg-id="Urban Series HD" tvg-name="Urban Series HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",URBAN SERIES HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/86530
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",WARNER CHANNEL
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/warner%20channel.png" group-title="FILMES E SÉRIES",WARNER CHANNEL
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36996
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="https://bit.ly/Logo-tv" group-title="FILMES E SÉRIES",WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/warner%20channel.png" group-title="FILMES E SÉRIES",WARNER CHANNEL HD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36930
 
 
@@ -1549,11 +1549,11 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51052
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63095
 #EXTINF:-1 tvg-id="0" tvg-name="Star Life HD [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="ALTERNATIVOS ",STAR LIFE HD [ALT]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50748
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="TELECINE CULT HD [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="ALTERNATIVOS ",TELECINE CULT HD [ALT]
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="TELECINE CULT HD [ALT]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20cult.png" group-title="ALTERNATIVOS ",TELECINE CULT HD [ALT]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51085
-#EXTINF:-1 tvg-id="0" tvg-name="TELECINE PIPOCA [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="ALTERNATIVOS ",TELECINE PIPOCA [ALT]
+#EXTINF:-1 tvg-id="0" tvg-name="TELECINE PIPOCA [ALT]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20pipoca.png" group-title="ALTERNATIVOS ",TELECINE PIPOCA [ALT]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51090
-#EXTINF:-1 tvg-id="0" tvg-name="TELECINE PREMIUM HD [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="ALTERNATIVOS ",TELECINE PREMIUM HD [ALT]
+#EXTINF:-1 tvg-id="0" tvg-name="TELECINE PREMIUM HD [ALT]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20premium.png" group-title="ALTERNATIVOS ",TELECINE PREMIUM HD [ALT]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51104
 
 
@@ -2115,7 +2115,7 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38427
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81801
 #EXTINF:-1 tvg-id="FoxLife FHD" tvg-name="Star Life FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",STAR LIFE FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41479
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",STUDIO UNIVERSAL FHD
+#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/universal%20tv.png" group-title="FULL HD",STUDIO UNIVERSAL FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41511
 #EXTINF:-1 tvg-id="Syfy FHD" tvg-name="Syfy FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",SYFY FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41504
@@ -2123,37 +2123,37 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41504
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41505
 #EXTINF:-1 tvg-id="TCM FHD" tvg-name="TCM FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TCM FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63645
-#EXTINF:-1 tvg-id="Telecine Action FHD" tvg-name="Telecine Action FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE ACTION FHD
+#EXTINF:-1 tvg-id="Telecine Action FHD" tvg-name="Telecine Action FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TC%20Action.png" group-title="FULL HD",TELECINE ACTION FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38418
-#EXTINF:-1 tvg-id="TELECINE ACTION FHD (LEG)" tvg-name="TELECINE ACTION FHD (LEG)" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE ACTION FHD (LEG)
+#EXTINF:-1 tvg-id="TELECINE ACTION FHD (LEG)" tvg-name="TELECINE ACTION FHD (LEG)" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TC%20Action.png" group-title="FULL HD",TELECINE ACTION FHD (LEG)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81781
-#EXTINF:-1 tvg-id="Telecine Cult FHD" tvg-name="Telecine Cult FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE CULT FHD
+#EXTINF:-1 tvg-id="Telecine Cult FHD" tvg-name="Telecine Cult FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20cult.png" group-title="FULL HD",TELECINE CULT FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41506
-#EXTINF:-1 tvg-id="TELECINE CULT FHD (LEG)" tvg-name="TELECINE CULT FHD (LEG)" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE CULT FHD (LEG)
+#EXTINF:-1 tvg-id="TELECINE CULT FHD (LEG)" tvg-name="TELECINE CULT FHD (LEG)" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20cult.png" group-title="FULL HD",TELECINE CULT FHD (LEG)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81787
-#EXTINF:-1 tvg-id="Telecine Fun FHD" tvg-name="Telecine Fun FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE FUN FHD
+#EXTINF:-1 tvg-id="Telecine Fun FHD" tvg-name="Telecine Fun FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20Fun.png" group-title="FULL HD",TELECINE FUN FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38417
-#EXTINF:-1 tvg-id="TELECINE FUN FHD (LEG)" tvg-name="TELECINE FUN FHD (LEG)" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE FUN FHD (LEG)
+#EXTINF:-1 tvg-id="TELECINE FUN FHD (LEG)" tvg-name="TELECINE FUN FHD (LEG)" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20Fun.png" group-title="FULL HD",TELECINE FUN FHD (LEG)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81785
-#EXTINF:-1 tvg-id="Telecine Pipoca  FHD" tvg-name="Telecine Pipoca FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE PIPOCA FHD
+#EXTINF:-1 tvg-id="Telecine Pipoca  FHD" tvg-name="Telecine Pipoca FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20pipoca.png" group-title="FULL HD",TELECINE PIPOCA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38416
-#EXTINF:-1 tvg-id="TELECINE PIPOCA FHD (LEG)" tvg-name="TELECINE PIPOCA FHD (LEG)" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE PIPOCA FHD (LEG)
+#EXTINF:-1 tvg-id="TELECINE PIPOCA FHD (LEG)" tvg-name="TELECINE PIPOCA FHD (LEG)" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20pipoca.png" group-title="FULL HD",TELECINE PIPOCA FHD (LEG)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81777
-#EXTINF:-1 tvg-id="Telecine Premium FHD" tvg-name="Telecine Premium FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE PREMIUM FHD
+#EXTINF:-1 tvg-id="Telecine Premium FHD" tvg-name="Telecine Premium FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20premium.png" group-title="FULL HD",TELECINE PREMIUM FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38415
-#EXTINF:-1 tvg-id="TELECINE PREMIUM FHD (LEG)" tvg-name="TELECINE PREMIUM FHD (LEG)" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE PREMIUM FHD (LEG)
+#EXTINF:-1 tvg-id="TELECINE PREMIUM FHD (LEG)" tvg-name="TELECINE PREMIUM FHD (LEG)" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20premium.png" group-title="FULL HD",TELECINE PREMIUM FHD (LEG)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81779
-#EXTINF:-1 tvg-id="Telecine Touch FHD" tvg-name="Telecine Touch FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE TOUCH FHD
+#EXTINF:-1 tvg-id="Telecine Touch FHD" tvg-name="Telecine Touch FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20touch.png" group-title="FULL HD",TELECINE TOUCH FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38414
-#EXTINF:-1 tvg-id="TELECINE TOUCH FHD (LEG)" tvg-name="TELECINE TOUCH FHD (LEG)" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TELECINE TOUCH FHD (LEG)
+#EXTINF:-1 tvg-id="TELECINE TOUCH FHD (LEG)" tvg-name="TELECINE TOUCH FHD (LEG)" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20touch.png" group-title="FULL HD",TELECINE TOUCH FHD (LEG)
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81783
 #EXTINF:-1 tvg-id="Terra Viva FHD" tvg-name="Terra Viva FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TERRA VIVA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63394
 #EXTINF:-1 tvg-id="TLC FHD" tvg-name="TLC FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TLC FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61964
-#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TNT FHD
+#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TNT.png" group-title="FULL HD",TNT FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41507
-#EXTINF:-1 tvg-id="TNT Séries FHD" tvg-name="TNT Séries FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TNT SÉRIES FHD
+#EXTINF:-1 tvg-id="TNT Séries FHD" tvg-name="TNT Séries FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tnt%20s%C3%A9ries.png" group-title="FULL HD",TNT SÉRIES FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41508
 #EXTINF:-1 tvg-id="Tooncast FHD" tvg-name="Tooncast FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD",TOONCAST FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63648
@@ -2205,11 +2205,11 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/80922
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63658
 #EXTINF:-1 tvg-id="TV Verdes Mares Cariri FHD" tvg-name="TV Verdes Mares Cariri FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD", TV VERDES MARES CARIRI FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63389
-#EXTINF:-1 tvg-id="Universal TV FHD" tvg-name="Universal TV FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD", UNIVERSAL TV FHD
+#EXTINF:-1 tvg-id="Universal TV FHD" tvg-name="Universal TV FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/universal%20tv.png" group-title="FULL HD", UNIVERSAL TV FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/71655
 #EXTINF:-1 tvg-id="Viva FHD" tvg-name="Viva FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD", VIVA FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38393
-#EXTINF:-1 tvg-id="Warner Channel FHD" tvg-name="Warner Channel FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD", WARNER CHANNEL FHD
+#EXTINF:-1 tvg-id="Warner Channel FHD" tvg-name="Warner Channel FHD" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/warner%20channel.png" group-title="FULL HD", WARNER CHANNEL FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/38384
 #EXTINF:-1 tvg-id="Woohoo FHD" tvg-name="Woohoo FHD" tvg-logo="https://bit.ly/Logo-tv" group-title="FULL HD", WOOHOO FHD
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63777
@@ -2261,15 +2261,15 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62392
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40785
 #EXTINF:-1 tvg-id="Fox Channel [4K]" tvg-name="Star Channel [4K]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS 4K",STAR CHANNEL [4K]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/67689
-#EXTINF:-1 tvg-id="Telecine Action [4K]" tvg-name="Telecine Action [4K]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS 4K",TELECINE ACTION [4K]
+#EXTINF:-1 tvg-id="Telecine Action [4K]" tvg-name="Telecine Action [4K]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TC%20Action.png" group-title="CANAIS 4K",TELECINE ACTION [4K]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74797
-#EXTINF:-1 tvg-id="Telecine Pipoca [4K]" tvg-name="Telecine Pipoca [4K]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS 4K",TELECINE PIPOCA [4K]
+#EXTINF:-1 tvg-id="Telecine Pipoca [4K]" tvg-name="Telecine Pipoca [4K]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20pipoca.png" group-title="CANAIS 4K",TELECINE PIPOCA [4K]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/67687
-#EXTINF:-1 tvg-id="Telecine Premium 4K" tvg-name="Telecine Premium [4K]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS 4K",TELECINE PREMIUM [4K]
+#EXTINF:-1 tvg-id="Telecine Premium 4K" tvg-name="Telecine Premium [4K]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20premium.png" group-title="CANAIS 4K",TELECINE PREMIUM [4K]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/64378
-#EXTINF:-1 tvg-id="0" tvg-name="TNT [4K]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS 4K",TNT [4K]
+#EXTINF:-1 tvg-id="0" tvg-name="TNT [4K]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TNT.png" group-title="CANAIS 4K",TNT [4K]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61839
-#EXTINF:-1 tvg-id="0" tvg-name="TNT Séries [4K]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS 4K",TNT SÉRIES [4K]
+#EXTINF:-1 tvg-id="0" tvg-name="TNT Séries [4K]" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tnt%20s%C3%A9ries.png" group-title="CANAIS 4K",TNT SÉRIES [4K]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61845
 #EXTINF:-1 tvg-id="Viva [4K]" tvg-name="Viva [4K]" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS 4K",VIVA [4K]
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/74792
@@ -2589,23 +2589,23 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62908
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62907
 #EXTINF:-1 tvg-id="0" tvg-name="TC TOUCH H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TC TOUCH H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62906
-#EXTINF:-1 tvg-id="0" tvg-name="TELECINE ACTION H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TELECINE ACTION H265
+#EXTINF:-1 tvg-id="0" tvg-name="TELECINE ACTION H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TC%20Action.png" group-title="CANAIS H.265",TELECINE ACTION H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51286
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="TELECINE CULT H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TELECINE CULT H265
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="TELECINE CULT H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20cult.png" group-title="CANAIS H.265",TELECINE CULT H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51287
-#EXTINF:-1 tvg-id="0" tvg-name="TELECINE FUN H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TELECINE FUN H265
+#EXTINF:-1 tvg-id="0" tvg-name="TELECINE FUN H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20Fun.png" group-title="CANAIS H.265",TELECINE FUN H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51301
-#EXTINF:-1 tvg-id="0" tvg-name="TELECINE PIPOCA H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TELECINE PIPOCA H265
+#EXTINF:-1 tvg-id="0" tvg-name="TELECINE PIPOCA H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20pipoca.png" group-title="CANAIS H.265",TELECINE PIPOCA H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51302
-#EXTINF:-1 tvg-id="0" tvg-name="TELECINE PREMIUM H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TELECINE PREMIUM H265
+#EXTINF:-1 tvg-id="0" tvg-name="TELECINE PREMIUM H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tc%20premium.png" group-title="CANAIS H.265",TELECINE PREMIUM H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51303
 #EXTINF:-1 tvg-id="0" tvg-name="TLC H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TLC H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62809
-#EXTINF:-1 tvg-id="0" tvg-name="TNT - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TNT - H265
+#EXTINF:-1 tvg-id="0" tvg-name="TNT - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TNT.png" group-title="CANAIS H.265",TNT - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51305
-#EXTINF:-1 tvg-id="0" tvg-name="TNT H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TNT H265
+#EXTINF:-1 tvg-id="0" tvg-name="TNT H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/TNT.png" group-title="CANAIS H.265",TNT H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62905
-#EXTINF:-1 tvg-id="0" tvg-name="TNT SERIES - H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TNT SERIES - H265
+#EXTINF:-1 tvg-id="0" tvg-name="TNT SERIES - H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/tnt%20s%C3%A9ries.png" group-title="CANAIS H.265",TNT SERIES - H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51306
 #EXTINF:-1 tvg-id="0" tvg-name="TRAVEL BOX BRAZIL H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TRAVEL BOX BRAZIL H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62833
@@ -2619,13 +2619,13 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62803
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62831
 #EXTINF:-1 tvg-id="0" tvg-name="TV RA TIM BUM H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",TV RA TIM BUM H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62898
-#EXTINF:-1 tvg-id="0" tvg-name="UNIVERSAL H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",UNIVERSAL H265
+#EXTINF:-1 tvg-id="0" tvg-name="UNIVERSAL H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/universal%20tv.png" group-title="CANAIS H.265",UNIVERSAL H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62896
 #EXTINF:-1 tvg-id="0" tvg-name="VIVA H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",VIVA H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62893
-#EXTINF:-1 tvg-id="0" tvg-name="WARNER CHANNEL H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",WARNER CHANNEL H265
+#EXTINF:-1 tvg-id="0" tvg-name="WARNER CHANNEL H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/warner%20channel.png" group-title="CANAIS H.265",WARNER CHANNEL H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/51308
-#EXTINF:-1 tvg-id="0" tvg-name="WARNER H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",WARNER H265
+#EXTINF:-1 tvg-id="0" tvg-name="WARNER H265" tvg-logo="https://raw.githubusercontent.com/jorgin17/Br4List/main/Logos%20PNGs/warner%20channel.png" group-title="CANAIS H.265",WARNER H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62891
 #EXTINF:-1 tvg-id="0" tvg-name="WOOHOO H265" tvg-logo="https://bit.ly/Logo-tv" group-title="CANAIS H.265",WOOHOO H265
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62827
